@@ -26,7 +26,7 @@ requirements:
 
 test:
   imports:
-    - deutschland
+    - deutschland.entgeltatlas
   commands:
     - pip check
   requires:
